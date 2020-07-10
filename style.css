@@ -1,0 +1,19 @@
+.main__reg,.main__login{
+    position:relative;
+    width:100%;
+    height:700px;
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+
+}
+.main__reg{
+    background-image: url("1234.jpg"); 
+}
+ .main__login{
+    background-image: url("1234a.jpg"); 
+ }
+
+
+.load{
+    display:none;
+}
